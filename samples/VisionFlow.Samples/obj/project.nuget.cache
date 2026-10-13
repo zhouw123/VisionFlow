@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "naWUpyXkoJk=",
+  "success": true,
+  "projectFilePath": "E:\\code\\code\\HYTec\\VisionFlow\\samples\\VisionFlow.Samples\\VisionFlow.Samples.csproj",
+  "expectedPackageFiles": [
+    "F:\\nuget\\packages\\directshowlib.net\\3.0.0\\directshowlib.net.3.0.0.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.configuration\\10.0.12\\microsoft.extensions.configuration.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.12\\microsoft.extensions.configuration.abstractions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.12\\microsoft.extensions.configuration.binder.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.logging\\10.0.12\\microsoft.extensions.logging.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.logging.configuration\\10.0.12\\microsoft.extensions.logging.configuration.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.logging.console\\10.0.12\\microsoft.extensions.logging.console.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.12\\microsoft.extensions.options.configurationextensions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.primitives\\10.0.12\\microsoft.extensions.primitives.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "F:\\nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512",
+    "F:\\nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.12\\system.diagnostics.diagnosticsource.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\system.io.pipelines\\10.0.12\\system.io.pipelines.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "F:\\nuget\\packages\\system.text.encodings.web\\10.0.12\\system.text.encodings.web.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\system.text.json\\10.0.12\\system.text.json.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

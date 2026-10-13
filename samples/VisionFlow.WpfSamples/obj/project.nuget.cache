@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/y/2+HKvC4=",
+  "success": true,
+  "projectFilePath": "E:\\code\\code\\HYTec\\VisionFlow\\samples\\VisionFlow.WpfSamples\\VisionFlow.WpfSamples.csproj",
+  "expectedPackageFiles": [
+    "F:\\nuget\\packages\\directshowlib.net\\3.0.0\\directshowlib.net.3.0.0.nupkg.sha512",
+    "F:\\nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "F:\\nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512",
+    "F:\\nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.12\\system.diagnostics.diagnosticsource.10.0.12.nupkg.sha512",
+    "F:\\nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
